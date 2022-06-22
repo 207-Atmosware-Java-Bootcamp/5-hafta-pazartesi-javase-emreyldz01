@@ -13,11 +13,11 @@ public class VizeFinal {
 		{
 			System.out.println("AA");
 		}
-		else if(z>69&&z<83) 
+		else if(z>69&&z<84) 
 		{
 			System.out.println("BA");
 		}
-		else if (z>54 && z<83) 
+		else if (z>54 && z<70) 
 		{
 			System.out.println("BB");
 		}
